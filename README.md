@@ -39,3 +39,8 @@ This analysis helps the business:
 •    Make informed decisions on product strategy and inventory planning
 🛠 Tools Used: MySQL | Power BI | DAX | ETL
 Always motivated to transform data into actionable business insight
+
+<img width="1295" height="709" alt="image" src="https://github.com/user-attachments/assets/cc1b913c-9090-46f7-bd80-5f339e03baea" />
+<img width="1299" height="714" alt="image" src="https://github.com/user-attachments/assets/40bf1628-b8d7-4a73-8c60-fc778f37277e" />
+
+
